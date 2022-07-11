@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenderPredictor", "GenderPredictor\GenderPredictor.csproj", "{1FB69319-B3E7-44E6-9890-5180AF2F33AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{47AA6373-B216-4AB3-A37A-D2E21D1C2FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB69319-B3E7-44E6-9890-5180AF2F33AB}.Debug|x86.ActiveCfg = Debug|x86
+		{1FB69319-B3E7-44E6-9890-5180AF2F33AB}.Debug|x86.Build.0 = Debug|x86
+		{1FB69319-B3E7-44E6-9890-5180AF2F33AB}.Release|x86.ActiveCfg = Release|x86
+		{1FB69319-B3E7-44E6-9890-5180AF2F33AB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
